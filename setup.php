@@ -115,3 +115,5 @@ dvwaHtmlEcho( $page );
 ?>
 
 // Trigger analysis for demo
+// Trigger analysis for demo2
+
