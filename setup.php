@@ -113,3 +113,5 @@ allow_url_include = On</code></pre>
 dvwaHtmlEcho( $page );
 
 ?>
+
+// Trigger analysis for demo
